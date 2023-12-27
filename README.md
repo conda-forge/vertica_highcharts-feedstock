@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@afard](https://github.com/afard/)
+* [@oualib](https://github.com/oualib/)
 
